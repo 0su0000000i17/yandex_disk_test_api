@@ -21,7 +21,7 @@ git clone https://github.com/0su0000000i17/yandex_disk_test_api.git
 cd yandex_disk_test_api
 
 # Создать и активировать виртуальное окружение
-python -m venv venv
+py -m venv venv
 source venv/Scripts/activate  # Для Windows
 # source venv/bin/activate    # Для macOS/Linux
 
