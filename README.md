@@ -28,5 +28,5 @@ source venv/Scripts/activate  # Для Windows
 # Установить зависимости
 pip install -r requirements.txt
 
-# Запустить приложение 
+# Запуск тестов
 pytest -v -s 
